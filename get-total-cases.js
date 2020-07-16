@@ -1,5 +1,7 @@
 
-
+let getTotalCases = function(data){
+return data[4]
+}
 
 
 

@@ -1,4 +1,6 @@
-
+let getNewCases = function(arr){
+return arr[5]
+}
 
 
 

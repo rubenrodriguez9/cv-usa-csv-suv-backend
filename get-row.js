@@ -1,4 +1,6 @@
-
+let getRow = function(data){
+return data.split(',')
+}
 
 
 
